@@ -13,7 +13,9 @@ Function calling in OpenAI is a model feature that allows users to describe func
 To use function calling, users need to create a custom function that includes the following information:
 
 -- Name: The Python function name
+
 -- Description: The function's functionality
+
 -- Parameters: The name, type, and description of the arguments 
 
 Function calling can help resolve issues with inconsistent and unpredictable text outputs, and it can be especially useful for working with large amounts of data.
